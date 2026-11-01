@@ -248,7 +248,7 @@
 
 # ```bash
 
-# git clone <YOUR\_GITHUB\_REPOSITORY\_URL>
+# git clone https://github.com/moluguri777-maker/enterprise-data-ingestion-etl-pipeline.git
 
 # cd enterprise-data-ingestion-\&-etl-pipeline
 
