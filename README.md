@@ -254,4 +254,12 @@ The Express server exposes endpoints for pipeline monitoring and operations:
 
 ---
 
+## AI Usage and Prompt History
+
+AI tools, including ChatGPT, were used throughout the development of this project for architecture discussions, implementation guidance, debugging, testing, and documentation.
+
+AI assistance was used as a development aid, while the implementation, integration, and validation were carried out through my own work. I reviewed and tested the suggestions against the actual project to ensure they aligned with the requirements.
+
+The [`docs/AI_PROMPT_HISTORY.md`](docs/AI_PROMPT_HISTORY.md) file contains prompts and development discussions that illustrate how AI was used during the project. The `docs` directory also includes supporting development documentation and the available conversation records.
+
 **Built with JavaScript, Node.js, Express.js, and MySQL.**
