@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Data Ingestion & ETL Pipeline",
+  "description": "Production-grade, idempotent data engineering pipeline processing CSV and JSON business events across Raw, Validated, Rejected, and Curated zones with reconciliation, MySQL publishing, and audit reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

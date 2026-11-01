@@ -1,0 +1,1038 @@
+{
+  "seed": 42,
+  "counts": {
+    "totalCustomers": 50,
+    "totalTransactions": 200,
+    "validTransactions": 196,
+    "identicalDuplicateTransactions": 2,
+    "conflictingDuplicateTransactions": 2,
+    "invalidCustomerRefTransactions": 0,
+    "negativeAmountTransactions": 3,
+    "malformedTypeTransactions": 0,
+    "nullAmountTransactions": 0,
+    "invalidTimestampTransactions": 1,
+    "unexpectedSchemaTransactions": 0
+  },
+  "labeledRecords": [
+    {
+      "id": "TXN-0000001",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000002",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000003",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000004",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000005",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000006",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000007",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000008",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000009",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000010",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000011",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000012",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000013",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000014",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000015",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000016",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000017",
+      "status": "INVALID",
+      "reason": "NEGATIVE_AMOUNT"
+    },
+    {
+      "id": "TXN-0000018",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000019",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000020",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000021",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000022",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000023",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000024",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000025",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000026",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000027",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000028",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000029",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000030",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000031",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000032",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000033",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000034",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000035",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000036",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000037",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000038",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000039",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000040",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000041",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000042",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000043",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000044",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000045",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000046",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000047",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000048",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000049",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000050",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000051",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000052",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000053",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000054",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000055",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000056",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000057",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000058",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000059",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000060",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000061",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000062",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000063",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000064",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000065",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000066",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000067",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000068",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000069",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000070",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000071",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000072",
+      "status": "INVALID",
+      "reason": "NEGATIVE_AMOUNT"
+    },
+    {
+      "id": "TXN-0000073",
+      "status": "INVALID",
+      "reason": "NEGATIVE_AMOUNT"
+    },
+    {
+      "id": "TXN-0000074",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000075",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000076",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000077",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000078",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000079",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000080",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000081",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000082",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000083",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000084",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000085",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000086",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000087",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000088",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000089",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000090",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000091",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000092",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000093",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000094",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000095",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000096",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000097",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000098",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000099",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000100",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000101",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000102",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000103",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000104",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000105",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000106",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000107",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000108",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000109",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000110",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000111",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000112",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000113",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000114",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000115",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000116",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000117",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000118",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000119",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000120",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000121",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000122",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000123",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000124",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000125",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000126",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000127",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000128",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000129",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000130",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000131",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000132",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000133",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000134",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000135",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000136",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000137",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000138",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000139",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000140",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000141",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000142",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000143",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000144",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000145",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000146",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000147",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000148",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000149",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000150",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000151",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000152",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000153",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000154",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000155",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000156",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000157",
+      "status": "INVALID",
+      "reason": "INVALID_TIMESTAMP"
+    },
+    {
+      "id": "TXN-0000158",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000159",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000160",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000161",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000162",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000163",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000164",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000165",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000166",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000167",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000168",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000169",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000170",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000171",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000172",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000173",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000174",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000175",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000176",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000177",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000178",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000179",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000180",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000181",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000182",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000183",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000184",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000185",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000186",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000187",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000188",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000189",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000190",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000191",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000192",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000193",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000194",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000195",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000196",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000197",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000198",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000199",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000200",
+      "status": "VALID",
+      "reason": null
+    },
+    {
+      "id": "TXN-0000161",
+      "status": "DUPLICATE",
+      "reason": "IDENTICAL_DUPLICATE"
+    },
+    {
+      "id": "TXN-0000104",
+      "status": "CONFLICT",
+      "reason": "CONFLICTING_DUPLICATE"
+    },
+    {
+      "id": "TXN-0000006",
+      "status": "DUPLICATE",
+      "reason": "IDENTICAL_DUPLICATE"
+    },
+    {
+      "id": "TXN-0000156",
+      "status": "CONFLICT",
+      "reason": "CONFLICTING_DUPLICATE"
+    }
+  ]
+}

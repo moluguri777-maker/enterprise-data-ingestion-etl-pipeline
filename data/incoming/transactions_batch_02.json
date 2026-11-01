@@ -1,0 +1,818 @@
+[
+  {
+    "transaction_id": "TXN-0000103",
+    "customer_id": "CUST-00031",
+    "transaction_type": "PAYMENT",
+    "amount": 2107.01,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-09T02:47:12.579Z"
+  },
+  {
+    "transaction_id": "TXN-0000104",
+    "customer_id": "CUST-00023",
+    "transaction_type": "REFUND",
+    "amount": 987.68,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-04T02:29:43.196Z"
+  },
+  {
+    "transaction_id": "TXN-0000105",
+    "customer_id": "CUST-00025",
+    "transaction_type": "REFUND",
+    "amount": 2405.83,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-25T11:57:59.338Z"
+  },
+  {
+    "transaction_id": "TXN-0000106",
+    "customer_id": "CUST-00007",
+    "transaction_type": "SALE",
+    "amount": 1982.34,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-31T19:19:25.718Z"
+  },
+  {
+    "transaction_id": "TXN-0000107",
+    "customer_id": "CUST-00045",
+    "transaction_type": "SALE",
+    "amount": 1273.08,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-27T05:06:22.689Z"
+  },
+  {
+    "transaction_id": "TXN-0000108",
+    "customer_id": "CUST-00001",
+    "transaction_type": "PAYMENT",
+    "amount": 2329.93,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-09T07:48:09.549Z"
+  },
+  {
+    "transaction_id": "TXN-0000109",
+    "customer_id": "CUST-00001",
+    "transaction_type": "PAYMENT",
+    "amount": 1582.84,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-05T06:04:32.189Z"
+  },
+  {
+    "transaction_id": "TXN-0000110",
+    "customer_id": "CUST-00035",
+    "transaction_type": "PAYMENT",
+    "amount": 2118.69,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-09T07:40:31.175Z"
+  },
+  {
+    "transaction_id": "TXN-0000111",
+    "customer_id": "CUST-00019",
+    "transaction_type": "SALE",
+    "amount": 2250.52,
+    "currency": "INR",
+    "transaction_timestamp": "2026-11-01T06:51:19.106Z"
+  },
+  {
+    "transaction_id": "TXN-0000112",
+    "customer_id": "CUST-00011",
+    "transaction_type": "SALE",
+    "amount": 99.91,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-30T07:32:52.457Z"
+  },
+  {
+    "transaction_id": "TXN-0000113",
+    "customer_id": "CUST-00048",
+    "transaction_type": "PAYMENT",
+    "amount": 369.29,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-13T08:07:25.697Z"
+  },
+  {
+    "transaction_id": "TXN-0000114",
+    "customer_id": "CUST-00004",
+    "transaction_type": "REFUND",
+    "amount": 1501.06,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-22T06:29:59.647Z"
+  },
+  {
+    "transaction_id": "TXN-0000115",
+    "customer_id": "CUST-00004",
+    "transaction_type": "PAYMENT",
+    "amount": 1560.26,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-15T01:17:07.752Z"
+  },
+  {
+    "transaction_id": "TXN-0000116",
+    "customer_id": "CUST-00012",
+    "transaction_type": "REFUND",
+    "amount": 2346.84,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-08T12:03:44.756Z"
+  },
+  {
+    "transaction_id": "TXN-0000117",
+    "customer_id": "CUST-00031",
+    "transaction_type": "REFUND",
+    "amount": 1067.08,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-14T16:31:46.540Z"
+  },
+  {
+    "transaction_id": "TXN-0000118",
+    "customer_id": "CUST-00022",
+    "transaction_type": "PAYMENT",
+    "amount": 1556.52,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-22T00:24:14.220Z"
+  },
+  {
+    "transaction_id": "TXN-0000119",
+    "customer_id": "CUST-00044",
+    "transaction_type": "PAYMENT",
+    "amount": 1945.64,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-06T22:26:36.803Z"
+  },
+  {
+    "transaction_id": "TXN-0000120",
+    "customer_id": "CUST-00033",
+    "transaction_type": "REFUND",
+    "amount": 2447.29,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-30T04:35:46.708Z"
+  },
+  {
+    "transaction_id": "TXN-0000121",
+    "customer_id": "CUST-00047",
+    "transaction_type": "PAYMENT",
+    "amount": 1241.99,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-28T11:54:00.300Z"
+  },
+  {
+    "transaction_id": "TXN-0000122",
+    "customer_id": "CUST-00025",
+    "transaction_type": "PAYMENT",
+    "amount": 1809.68,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-13T04:32:19.838Z"
+  },
+  {
+    "transaction_id": "TXN-0000123",
+    "customer_id": "CUST-00004",
+    "transaction_type": "PAYMENT",
+    "amount": 1150.35,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-11T10:22:04.441Z"
+  },
+  {
+    "transaction_id": "TXN-0000124",
+    "customer_id": "CUST-00019",
+    "transaction_type": "SALE",
+    "amount": 75.05,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-23T19:19:06.879Z"
+  },
+  {
+    "transaction_id": "TXN-0000125",
+    "customer_id": "CUST-00013",
+    "transaction_type": "SALE",
+    "amount": 224.74,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-24T12:42:23.266Z"
+  },
+  {
+    "transaction_id": "TXN-0000126",
+    "customer_id": "CUST-00023",
+    "transaction_type": "REFUND",
+    "amount": 1478.54,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-11T13:16:02.988Z"
+  },
+  {
+    "transaction_id": "TXN-0000127",
+    "customer_id": "CUST-00044",
+    "transaction_type": "PAYMENT",
+    "amount": 1204.17,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-13T13:19:23.518Z"
+  },
+  {
+    "transaction_id": "TXN-0000128",
+    "customer_id": "CUST-00050",
+    "transaction_type": "SALE",
+    "amount": 1028.48,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-11T06:58:26.706Z"
+  },
+  {
+    "transaction_id": "TXN-0000129",
+    "customer_id": "CUST-00018",
+    "transaction_type": "SALE",
+    "amount": 1977.14,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-19T08:16:33.020Z"
+  },
+  {
+    "transaction_id": "TXN-0000130",
+    "customer_id": "CUST-00044",
+    "transaction_type": "PAYMENT",
+    "amount": 1271.5,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-14T04:29:28.635Z"
+  },
+  {
+    "transaction_id": "TXN-0000131",
+    "customer_id": "CUST-00013",
+    "transaction_type": "SALE",
+    "amount": 47.93,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-06T10:05:35.505Z"
+  },
+  {
+    "transaction_id": "TXN-0000132",
+    "customer_id": "CUST-00009",
+    "transaction_type": "SALE",
+    "amount": 958.33,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-31T14:21:59.896Z"
+  },
+  {
+    "transaction_id": "TXN-0000133",
+    "customer_id": "CUST-00036",
+    "transaction_type": "PAYMENT",
+    "amount": 665.56,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-27T06:26:43.543Z"
+  },
+  {
+    "transaction_id": "TXN-0000134",
+    "customer_id": "CUST-00013",
+    "transaction_type": "SALE",
+    "amount": 1881.27,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-29T06:10:50.870Z"
+  },
+  {
+    "transaction_id": "TXN-0000135",
+    "customer_id": "CUST-00013",
+    "transaction_type": "REFUND",
+    "amount": 688.05,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-29T07:22:23.034Z"
+  },
+  {
+    "transaction_id": "TXN-0000136",
+    "customer_id": "CUST-00032",
+    "transaction_type": "REFUND",
+    "amount": 2282.25,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-14T18:00:27.058Z"
+  },
+  {
+    "transaction_id": "TXN-0000137",
+    "customer_id": "CUST-00041",
+    "transaction_type": "SALE",
+    "amount": 1796.87,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-27T13:59:03.343Z"
+  },
+  {
+    "transaction_id": "TXN-0000138",
+    "customer_id": "CUST-00006",
+    "transaction_type": "PAYMENT",
+    "amount": 1417.09,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-28T12:10:57.012Z"
+  },
+  {
+    "transaction_id": "TXN-0000139",
+    "customer_id": "CUST-00019",
+    "transaction_type": "REFUND",
+    "amount": 720.19,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-31T12:31:08.397Z"
+  },
+  {
+    "transaction_id": "TXN-0000140",
+    "customer_id": "CUST-00029",
+    "transaction_type": "REFUND",
+    "amount": 215.88,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-28T20:36:54.701Z"
+  },
+  {
+    "transaction_id": "TXN-0000141",
+    "customer_id": "CUST-00015",
+    "transaction_type": "PAYMENT",
+    "amount": 618.25,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-11T15:58:58.951Z"
+  },
+  {
+    "transaction_id": "TXN-0000142",
+    "customer_id": "CUST-00012",
+    "transaction_type": "PAYMENT",
+    "amount": 1606.64,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-14T03:00:24.036Z"
+  },
+  {
+    "transaction_id": "TXN-0000143",
+    "customer_id": "CUST-00009",
+    "transaction_type": "REFUND",
+    "amount": 1482.68,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-13T03:17:07.411Z"
+  },
+  {
+    "transaction_id": "TXN-0000144",
+    "customer_id": "CUST-00024",
+    "transaction_type": "REFUND",
+    "amount": 543.57,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-23T01:02:39.508Z"
+  },
+  {
+    "transaction_id": "TXN-0000145",
+    "customer_id": "CUST-00031",
+    "transaction_type": "SALE",
+    "amount": 436.33,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-28T17:41:16.723Z"
+  },
+  {
+    "transaction_id": "TXN-0000146",
+    "customer_id": "CUST-00027",
+    "transaction_type": "PAYMENT",
+    "amount": 74.06,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-17T11:56:48.262Z"
+  },
+  {
+    "transaction_id": "TXN-0000147",
+    "customer_id": "CUST-00040",
+    "transaction_type": "REFUND",
+    "amount": 1549.71,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-19T08:06:58.696Z"
+  },
+  {
+    "transaction_id": "TXN-0000148",
+    "customer_id": "CUST-00042",
+    "transaction_type": "PAYMENT",
+    "amount": 6.54,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-27T07:17:59.723Z"
+  },
+  {
+    "transaction_id": "TXN-0000149",
+    "customer_id": "CUST-00027",
+    "transaction_type": "SALE",
+    "amount": 594.11,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-26T17:26:19.540Z"
+  },
+  {
+    "transaction_id": "TXN-0000150",
+    "customer_id": "CUST-00007",
+    "transaction_type": "SALE",
+    "amount": 1825.77,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-24T12:42:49.519Z"
+  },
+  {
+    "transaction_id": "TXN-0000151",
+    "customer_id": "CUST-00025",
+    "transaction_type": "PAYMENT",
+    "amount": 1759.19,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-28T03:52:57.649Z"
+  },
+  {
+    "transaction_id": "TXN-0000152",
+    "customer_id": "CUST-00010",
+    "transaction_type": "SALE",
+    "amount": 1555.81,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-10T20:40:36.742Z"
+  },
+  {
+    "transaction_id": "TXN-0000153",
+    "customer_id": "CUST-00049",
+    "transaction_type": "PAYMENT",
+    "amount": 607.39,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-26T09:27:27.663Z"
+  },
+  {
+    "transaction_id": "TXN-0000154",
+    "customer_id": "CUST-00016",
+    "transaction_type": "REFUND",
+    "amount": 2499.42,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-25T08:24:14.094Z"
+  },
+  {
+    "transaction_id": "TXN-0000155",
+    "customer_id": "CUST-00041",
+    "transaction_type": "PAYMENT",
+    "amount": 2148,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-20T13:19:22.027Z"
+  },
+  {
+    "transaction_id": "TXN-0000156",
+    "customer_id": "CUST-00019",
+    "transaction_type": "REFUND",
+    "amount": 921.47,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-08T12:47:48.315Z"
+  },
+  {
+    "transaction_id": "TXN-0000157",
+    "customer_id": "CUST-00011",
+    "transaction_type": "PAYMENT",
+    "amount": 1947.71,
+    "currency": "INR",
+    "transaction_timestamp": "INVALID_DATE_TIME_STRING"
+  },
+  {
+    "transaction_id": "TXN-0000158",
+    "customer_id": "CUST-00008",
+    "transaction_type": "SALE",
+    "amount": 2423.96,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-12T19:54:01.989Z"
+  },
+  {
+    "transaction_id": "TXN-0000159",
+    "customer_id": "CUST-00045",
+    "transaction_type": "PAYMENT",
+    "amount": 830.63,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-07T15:11:52.692Z"
+  },
+  {
+    "transaction_id": "TXN-0000160",
+    "customer_id": "CUST-00045",
+    "transaction_type": "PAYMENT",
+    "amount": 2094.35,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-23T09:24:01.162Z"
+  },
+  {
+    "transaction_id": "TXN-0000161",
+    "customer_id": "CUST-00013",
+    "transaction_type": "SALE",
+    "amount": 568.18,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-31T07:43:51.542Z"
+  },
+  {
+    "transaction_id": "TXN-0000162",
+    "customer_id": "CUST-00029",
+    "transaction_type": "PAYMENT",
+    "amount": 2269.21,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-30T22:29:20.406Z"
+  },
+  {
+    "transaction_id": "TXN-0000163",
+    "customer_id": "CUST-00010",
+    "transaction_type": "SALE",
+    "amount": 2218.09,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-14T12:52:41.404Z"
+  },
+  {
+    "transaction_id": "TXN-0000164",
+    "customer_id": "CUST-00004",
+    "transaction_type": "SALE",
+    "amount": 966.38,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-06T10:29:47.131Z"
+  },
+  {
+    "transaction_id": "TXN-0000165",
+    "customer_id": "CUST-00044",
+    "transaction_type": "SALE",
+    "amount": 86.86,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-08T08:26:31.581Z"
+  },
+  {
+    "transaction_id": "TXN-0000166",
+    "customer_id": "CUST-00047",
+    "transaction_type": "PAYMENT",
+    "amount": 1243.68,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-12T12:25:10.441Z"
+  },
+  {
+    "transaction_id": "TXN-0000167",
+    "customer_id": "CUST-00012",
+    "transaction_type": "SALE",
+    "amount": 1182.09,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-16T22:53:22.558Z"
+  },
+  {
+    "transaction_id": "TXN-0000168",
+    "customer_id": "CUST-00027",
+    "transaction_type": "SALE",
+    "amount": 1277.29,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-22T01:56:33.457Z"
+  },
+  {
+    "transaction_id": "TXN-0000169",
+    "customer_id": "CUST-00008",
+    "transaction_type": "REFUND",
+    "amount": 816.36,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-09T12:25:08.602Z"
+  },
+  {
+    "transaction_id": "TXN-0000170",
+    "customer_id": "CUST-00025",
+    "transaction_type": "REFUND",
+    "amount": 1308.37,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-15T23:07:45.184Z"
+  },
+  {
+    "transaction_id": "TXN-0000171",
+    "customer_id": "CUST-00025",
+    "transaction_type": "PAYMENT",
+    "amount": 60.84,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-10T23:47:56.857Z"
+  },
+  {
+    "transaction_id": "TXN-0000172",
+    "customer_id": "CUST-00022",
+    "transaction_type": "PAYMENT",
+    "amount": 1575.41,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-15T00:37:58.114Z"
+  },
+  {
+    "transaction_id": "TXN-0000173",
+    "customer_id": "CUST-00011",
+    "transaction_type": "PAYMENT",
+    "amount": 1742.55,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-27T06:31:40.351Z"
+  },
+  {
+    "transaction_id": "TXN-0000174",
+    "customer_id": "CUST-00031",
+    "transaction_type": "REFUND",
+    "amount": 1427.74,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-10T03:15:22.383Z"
+  },
+  {
+    "transaction_id": "TXN-0000175",
+    "customer_id": "CUST-00012",
+    "transaction_type": "REFUND",
+    "amount": 339.51,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-17T09:37:37.175Z"
+  },
+  {
+    "transaction_id": "TXN-0000176",
+    "customer_id": "CUST-00012",
+    "transaction_type": "REFUND",
+    "amount": 607.91,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-25T23:08:14.094Z"
+  },
+  {
+    "transaction_id": "TXN-0000177",
+    "customer_id": "CUST-00022",
+    "transaction_type": "PAYMENT",
+    "amount": 1144.39,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-05T04:12:54.010Z"
+  },
+  {
+    "transaction_id": "TXN-0000178",
+    "customer_id": "CUST-00007",
+    "transaction_type": "SALE",
+    "amount": 559.3,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-19T08:42:45.500Z"
+  },
+  {
+    "transaction_id": "TXN-0000179",
+    "customer_id": "CUST-00039",
+    "transaction_type": "REFUND",
+    "amount": 2061.76,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-21T04:30:01.762Z"
+  },
+  {
+    "transaction_id": "TXN-0000180",
+    "customer_id": "CUST-00012",
+    "transaction_type": "PAYMENT",
+    "amount": 2334.62,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-25T14:38:25.428Z"
+  },
+  {
+    "transaction_id": "TXN-0000181",
+    "customer_id": "CUST-00033",
+    "transaction_type": "SALE",
+    "amount": 306.11,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-29T21:12:20.342Z"
+  },
+  {
+    "transaction_id": "TXN-0000182",
+    "customer_id": "CUST-00025",
+    "transaction_type": "REFUND",
+    "amount": 1513.54,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-28T17:47:21.895Z"
+  },
+  {
+    "transaction_id": "TXN-0000183",
+    "customer_id": "CUST-00021",
+    "transaction_type": "PAYMENT",
+    "amount": 1834.41,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-02T21:40:36.437Z"
+  },
+  {
+    "transaction_id": "TXN-0000184",
+    "customer_id": "CUST-00046",
+    "transaction_type": "SALE",
+    "amount": 136.73,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-15T07:29:32.924Z"
+  },
+  {
+    "transaction_id": "TXN-0000185",
+    "customer_id": "CUST-00042",
+    "transaction_type": "PAYMENT",
+    "amount": 141.32,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-30T13:11:43.063Z"
+  },
+  {
+    "transaction_id": "TXN-0000186",
+    "customer_id": "CUST-00031",
+    "transaction_type": "SALE",
+    "amount": 1988.58,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-24T11:30:01.564Z"
+  },
+  {
+    "transaction_id": "TXN-0000187",
+    "customer_id": "CUST-00016",
+    "transaction_type": "SALE",
+    "amount": 1233.03,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-08T23:20:46.306Z"
+  },
+  {
+    "transaction_id": "TXN-0000188",
+    "customer_id": "CUST-00028",
+    "transaction_type": "REFUND",
+    "amount": 1584.23,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-24T17:00:20.141Z"
+  },
+  {
+    "transaction_id": "TXN-0000189",
+    "customer_id": "CUST-00008",
+    "transaction_type": "SALE",
+    "amount": 1931.7,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-04T10:11:13.766Z"
+  },
+  {
+    "transaction_id": "TXN-0000190",
+    "customer_id": "CUST-00004",
+    "transaction_type": "SALE",
+    "amount": 1128.45,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-05T10:34:54.045Z"
+  },
+  {
+    "transaction_id": "TXN-0000191",
+    "customer_id": "CUST-00049",
+    "transaction_type": "REFUND",
+    "amount": 940.43,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-05T02:10:35.548Z"
+  },
+  {
+    "transaction_id": "TXN-0000192",
+    "customer_id": "CUST-00029",
+    "transaction_type": "SALE",
+    "amount": 199.86,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-03T13:41:00.867Z"
+  },
+  {
+    "transaction_id": "TXN-0000193",
+    "customer_id": "CUST-00037",
+    "transaction_type": "PAYMENT",
+    "amount": 526,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-14T16:27:51.041Z"
+  },
+  {
+    "transaction_id": "TXN-0000194",
+    "customer_id": "CUST-00006",
+    "transaction_type": "SALE",
+    "amount": 2364.7,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-14T15:55:40.062Z"
+  },
+  {
+    "transaction_id": "TXN-0000195",
+    "customer_id": "CUST-00006",
+    "transaction_type": "PAYMENT",
+    "amount": 2498.38,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-16T09:34:58.866Z"
+  },
+  {
+    "transaction_id": "TXN-0000196",
+    "customer_id": "CUST-00021",
+    "transaction_type": "SALE",
+    "amount": 1675.55,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-07T22:04:32.736Z"
+  },
+  {
+    "transaction_id": "TXN-0000197",
+    "customer_id": "CUST-00047",
+    "transaction_type": "REFUND",
+    "amount": 694.57,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-23T12:06:59.489Z"
+  },
+  {
+    "transaction_id": "TXN-0000198",
+    "customer_id": "CUST-00010",
+    "transaction_type": "REFUND",
+    "amount": 950.64,
+    "currency": "USD",
+    "transaction_timestamp": "2026-10-30T17:10:38.692Z"
+  },
+  {
+    "transaction_id": "TXN-0000199",
+    "customer_id": "CUST-00046",
+    "transaction_type": "REFUND",
+    "amount": 996.49,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-13T09:54:41.163Z"
+  },
+  {
+    "transaction_id": "TXN-0000200",
+    "customer_id": "CUST-00049",
+    "transaction_type": "PAYMENT",
+    "amount": 110.16,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-07T01:35:54.800Z"
+  },
+  {
+    "transaction_id": "TXN-0000161",
+    "customer_id": "CUST-00013",
+    "transaction_type": "SALE",
+    "amount": 568.18,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-31T07:43:51.542Z"
+  },
+  {
+    "transaction_id": "TXN-0000104",
+    "customer_id": "CUST-00023",
+    "transaction_type": "REFUND",
+    "amount": 1986.6799999999998,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-04T02:29:43.196Z"
+  },
+  {
+    "transaction_id": "TXN-0000006",
+    "customer_id": "CUST-00045",
+    "transaction_type": "REFUND",
+    "amount": 1547.24,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-26T18:10:22.414Z"
+  },
+  {
+    "transaction_id": "TXN-0000156",
+    "customer_id": "CUST-00019",
+    "transaction_type": "REFUND",
+    "amount": 1920.47,
+    "currency": "INR",
+    "transaction_timestamp": "2026-10-08T12:47:48.315Z"
+  }
+]

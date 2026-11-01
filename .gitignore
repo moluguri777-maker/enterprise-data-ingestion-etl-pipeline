@@ -1,0 +1,23 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+
+# Generated pipeline data
+data/raw/
+data/validated/
+data/rejected/
+data/curated/
+
+# Generated execution reports
+reports/
+
+# Local backups
+_backup*/
+*.bak
+*.backup
